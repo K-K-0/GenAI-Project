@@ -1,0 +1,53 @@
+_wandb:
+    value:
+        cli_version: 0.27.2
+        e:
+            5dagbsf9fxvt7do6bvb0b8gqyqa6y1h0:
+                codePath: /home/k-k/GenAI-Project/notebooks/LogisticRegression.ipynb
+                codePathLocal: LogisticRegression.ipynb
+                cpu_count: 2
+                cpu_count_logical: 4
+                disk:
+                    /:
+                        total: "249792131072"
+                        used: "71201968128"
+                executable: /home/k-k/GenAI-Project/venv/bin/python
+                git:
+                    commit: cdb9056d5dd450a53f9b279cf5cbf21aa3e60762
+                    remote: git@github.com:K-K-0/GenAI-Project.git
+                host: kk
+                memory:
+                    total: "8201523200"
+                os: Linux-6.18.0-061800rc1-generic-x86_64-with-glibc2.39
+                program: /home/k-k/GenAI-Project/notebooks/LogisticRegression.ipynb
+                python: CPython 3.12.3
+                root: /home/k-k/GenAI-Project/notebooks
+                startedAt: "2026-06-08T07:54:43.935496Z"
+                writerId: 5dagbsf9fxvt7do6bvb0b8gqyqa6y1h0
+        m: []
+        python_version: 3.12.3
+        t:
+            "1":
+                - 5
+                - 53
+            "2":
+                - 5
+                - 53
+            "3":
+                - 2
+                - 13
+                - 16
+            "4": 3.12.3
+            "5": 0.27.2
+            "8":
+                - 1
+            "12": 0.27.2
+            "13": linux-x86_64
+max_features:
+    value: 10000
+max_iter:
+    value: 1000
+model:
+    value: LogisticRegression
+test_size:
+    value: 0.2
